@@ -1,4 +1,4 @@
-name: JS actions
+name: JS Actions
 
 on: [push]
 
