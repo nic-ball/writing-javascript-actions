@@ -2,7 +2,7 @@ const request = require('request-promise');
 
 const options = {
   method: 'GET',
-  uri: 'http://icanhazdadjoke.com/',
+  uri: 'https://icanhazdadjoke.com/',
   headers: {
     Accept: 'application/json',
     'User-Agent': 'Writing JavaScript action Learning Lab course. Visit lab.github.com or to contact us.'
