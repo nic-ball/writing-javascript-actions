@@ -1,6 +1,6 @@
 name: JS Actions
 
-on: [labelled]
+on: [labeled]
 
 jobs:
   action:
